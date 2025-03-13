@@ -1,3 +1,6 @@
+# clangd caches
+*.cache
+
 # Solution files
 *.soln
 

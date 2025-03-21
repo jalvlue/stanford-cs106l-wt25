@@ -1,0 +1,28 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++20",
+      "-o",
+      "main",
+      "main.cpp"
+    ],
+    "directory": "/home/jalvlue/courses/stanford-cs106l-wt25/cs106l-assignments/assign4",
+    "file": "/home/jalvlue/courses/stanford-cs106l-wt25/cs106l-assignments/assign4/main.cpp",
+    "output": "/home/jalvlue/courses/stanford-cs106l-wt25/cs106l-assignments/assign4/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++20",
+      "-o",
+      "main",
+      "spellcheck.cpp"
+    ],
+    "directory": "/home/jalvlue/courses/stanford-cs106l-wt25/cs106l-assignments/assign4",
+    "file": "/home/jalvlue/courses/stanford-cs106l-wt25/cs106l-assignments/assign4/spellcheck.cpp",
+    "output": "/home/jalvlue/courses/stanford-cs106l-wt25/cs106l-assignments/assign4/main"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++23",
+      "-o",
+      "main",
+      "main.cpp"
+    ],
+    "directory": "/home/jalvlue/courses/stanford-cs106l-wt25/cs106l-assignments/assign6",
+    "file": "/home/jalvlue/courses/stanford-cs106l-wt25/cs106l-assignments/assign6/main.cpp",
+    "output": "/home/jalvlue/courses/stanford-cs106l-wt25/cs106l-assignments/assign6/main"
+  }
+]
